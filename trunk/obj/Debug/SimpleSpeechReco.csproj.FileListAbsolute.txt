@@ -1,0 +1,8 @@
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\ResolveAssemblyReference.cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Form1.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Properties.Resources.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.csproj.GenerateResource.Cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.pdb
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.pdb

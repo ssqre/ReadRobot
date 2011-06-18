@@ -1,0 +1,16 @@
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Release\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Release\SimpleSpeechReco.pdb
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\ResolveAssemblyReference.cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\SimpleSpeechReco.Form1.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\SimpleSpeechReco.Properties.Resources.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\SimpleSpeechReco_Win7.csproj.GenerateResource.Cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Release\SimpleSpeechReco.pdb
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\SimpleSpeechReco.exe
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\SimpleSpeechReco.pdb
+C:\Documents and Settings\Administrator\桌面\RobotControl\bin\Release\SimpleSpeechReco.exe
+C:\Documents and Settings\Administrator\桌面\RobotControl\bin\Release\SimpleSpeechReco.pdb
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\SimpleSpeechReco.Form1.resources
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\SimpleSpeechReco.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Release\SimpleSpeechReco_Win7.csproj.GenerateResource.Cache

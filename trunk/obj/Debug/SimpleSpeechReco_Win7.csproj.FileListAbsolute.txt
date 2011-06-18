@@ -1,0 +1,26 @@
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.pdb
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\ResolveAssemblyReference.cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Form1.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Properties.Resources.resources
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco_Win7.csproj.GenerateResource.Cache
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.exe
+D:\ddqre\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.pdb
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.exe
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\bin\Debug\SimpleSpeechReco.pdb
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\ResolveAssemblyReference.cache
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Form1.resources
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.Properties.Resources.resources
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco_Win7.csproj.GenerateResource.Cache
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.exe
+E:\work_robot\室内移动机器人\编程\SimpleSpeechReco\SimpleSpeechReco\obj\Debug\SimpleSpeechReco.pdb
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\SimpleSpeechReco.exe
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\SimpleSpeechReco.pdb
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\SimpleSpeechReco.Form1.resources
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\SimpleSpeechReco.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\RobotControl\obj\Debug\SimpleSpeechReco_Win7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RobotControl\bin\Debug\SimpleSpeechReco.exe
+C:\Documents and Settings\Administrator\桌面\RobotControl\bin\Debug\SimpleSpeechReco.pdb
+E:\work_robot\翻书机器人\my_RobotControl_翻书机器人控制程序\obj\Debug\SimpleSpeechReco.exe
+E:\work_robot\翻书机器人\my_RobotControl_翻书机器人控制程序\obj\Debug\SimpleSpeechReco.pdb
